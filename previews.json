@@ -1,4 +1,11 @@
 {
+ "india-and-its-native-princes": [
+  "drawable:princes_preview_1",
+  "drawable:princes_preview_2",
+  "drawable:princes_preview_3",
+  "drawable:princes_preview_4",
+  "drawable:princes_preview_5"
+ ],
  "a-brief-history-of-ancient-and-modern-india": [
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/a-brief-history-of-ancient-and-modern-india/p1.jpg",
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/a-brief-history-of-ancient-and-modern-india/p2.jpg",
@@ -432,6 +439,13 @@
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/scenery-inhabitants-costumes-of-afghaunistan/p3.jpg",
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/scenery-inhabitants-costumes-of-afghaunistan/p4.jpg",
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/scenery-inhabitants-costumes-of-afghaunistan/p5.jpg"
+ ],
+ "seventy-two-specimens-of-castes-in-india": [
+  "https://mubashir103-cyber.github.io/nadir-kitabein-previews/seventy-two-specimens-of-castes-in-india/p1.jpg",
+  "https://mubashir103-cyber.github.io/nadir-kitabein-previews/seventy-two-specimens-of-castes-in-india/p2.jpg",
+  "https://mubashir103-cyber.github.io/nadir-kitabein-previews/seventy-two-specimens-of-castes-in-india/p3.jpg",
+  "https://mubashir103-cyber.github.io/nadir-kitabein-previews/seventy-two-specimens-of-castes-in-india/p4.jpg",
+  "https://mubashir103-cyber.github.io/nadir-kitabein-previews/seventy-two-specimens-of-castes-in-india/p5.jpg"
  ],
  "sindh-revisited": [
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/sindh-revisited/p1.jpg",
@@ -2231,12 +2245,5 @@
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/%DB%8C%D9%88%D9%86%D8%B3-%D8%A8%D9%B9/p3.jpg",
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/%DB%8C%D9%88%D9%86%D8%B3-%D8%A8%D9%B9/p4.jpg",
   "https://mubashir103-cyber.github.io/nadir-kitabein-previews/%DB%8C%D9%88%D9%86%D8%B3-%D8%A8%D9%B9/p5.jpg"
- ],
- "india-and-its-native-princes": [
-  "drawable:princes_preview_1",
-  "drawable:princes_preview_2",
-  "drawable:princes_preview_3",
-  "drawable:princes_preview_4",
-  "drawable:princes_preview_5"
  ]
 }
